@@ -1,7 +1,7 @@
 
 
 document.write("<link rel="stylesheet" href="https://epaportal.sp.ohio.gov/DERR/DERR Site Assets/Style/SABRcustomModal.css">");
-document.write("<link rel="stylesheet" href="https://epaportal.sp.ohio.gov/DERR/SiteAssets/codes/SABRdialog.css">");
+document.write("<link rel="stylesheet" href="https://github.com/oepa2016/codes/blob/master/SABRdialog.css">");
 
 document.write("<script type="text/javascript" src="/DERR/DERR%20Site%20Assets/Style/SABRdialogPopUp.js" language="JavaScript"></script>");
 document.write("<script src="https://code.jquery.com/jquery-1.11.1.js"></script>");
