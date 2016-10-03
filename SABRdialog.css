@@ -1,0 +1,459 @@
+﻿.ui-a, img {
+    border:none !important;
+    outline:none !important;
+}
+.openfold {
+position: relative;
+top: 5px;
+float: left !important;
+}
+.topnavcontainer {
+	padding-left: 0px;
+	width: auto;
+	padding-top: 30px;
+	
+	}
+.wtf {
+	padding-left: 5px;
+	padding-bottom: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	font-size: 13px;
+	border-bottom: 1px solid #cccccc;
+	letter-spacing: 2px;
+	    display: none;
+	text-transform: uppercase;
+	}
+.topnav {
+	width: auto;
+	padding: 40px 25px 25px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul.topnav {
+	padding: 0;
+	margin: 0;
+	font-size: 1em;
+	list-style-type: none;
+}
+
+ul.topnav li {
+   padding: 0px;
+   	border-bottom: 1px solid #cccccc;
+	display: block;
+}
+
+ul.topnav li:hover {
+background-image: url(https://epaportal.sp.ohio.gov/_catalogs/theme/Themed/9262B884/selbg-2144D79E.png?ctag);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto auto;
+}
+ul.topnav li a {
+	font-family: arial;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 11px;
+	padding: 5px 10px;
+	color: #FFF !important;
+	display: block;
+	text-decoration: none;
+	font-weight: bolder;
+    outline: green dotted 0px;
+	vertical-align: middle;
+BACKGROUND: url(https://epaportal.sp.ohio.gov/_catalogs/theme/themed/9262b884/selbg-2144d79e.png?ctag) rgb(9, 71, 0) repeat-x left top;
+}
+
+
+
+
+ul.topnav li a:hover {
+	text-decoration: none;
+	outline: green dotted 0px;
+	color: #FFF;
+}
+ul.topnav ul {
+	margin: 0;
+	margin-left: 0px;
+	padding: 0;
+	display: none;
+	list-style: none;
+}
+
+ul.topnav ul li {
+	margin: 0;
+	padding: 0;
+	clear: both;
+   padding-left: 0;
+   border-top: 1px solid #cccccc;
+   border-bottom: none;
+   display: block;
+}
+ul.topnav ul li:hover {
+background-image: url(https://epaportal.sp.ohio.gov/_catalogs/theme/Themed/9262B884/selbg-2144D79E.png?ctag);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-position: left top;
+    background-size: auto auto;
+	background-color: #0025A5;;
+	
+}
+
+
+ul.topnav ul li a {
+text-transform: none;
+font-family: arial;
+	letter-spacing: 1px;
+	padding: 5px 10px;
+	color: #ffffff !important;
+	text-decoration: none;
+	font-weight: bolder;
+    outline: green dotted 0px;
+background-color: rgb(0, 6, 134);
+background-image: none;
+}
+
+ul.topnav ul li a:hover {
+	color:rgb(24, 255, 0) !important;
+	text-decoration: none;
+background-color: rgb(0, 6, 134);
+background-image: url(https://epaportal.sp.ohio.gov/_catalogs/theme/Themed/9262B884/selbg-2144D79E.png?ctag);
+background-repeat: repeat-x;
+background-attachment: scroll;
+background-position: left top;
+background-size: auto auto;
+}
+ul.topnav ul li a:focus, ul.topnav ul li a:active {
+color: rgb(24, 255, 0) !important;
+background-image: url(https://epaportal.sp.ohio.gov/_catalogs/theme/Themed/9262B884/selbg-2144D79E.png?ctag);
+background-repeat: repeat-x;
+background-attachment: scroll;
+background-position: left top;
+background-size: auto auto;
+background-color: rgb(0, 6, 134);
+}
+ul.topnav ul ul {
+margin-left: 0px;
+list-style: none;
+}
+ul.topnav ul ul li {
+   	border-bottom: none !important;
+	border-top: 1px solid #cccccc !important;
+	background-image: none !important;
+}
+ul.topnav ul ul li a:before {
+content:url(https://epaportal.sp.ohio.gov/_layouts/images/ichtm.gif);
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 2px !important;
+vertical-align: middle;
+outline: green dotted 0px;
+display: inline-block !important;
+visibility: visible !important;
+}
+
+ul.topnav ul ul li a::before {
+    content: url(https://epaportal.sp.ohio.gov/_layouts/images/ichtm.gif);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 2px !important;
+    vertical-align: middle;
+    outline: green dotted 0px;
+display: inline-block !important;
+visibility: visible !important;
+}
+ul.topnav ul ul li a {
+text-transform: none;
+	letter-spacing: 1px;
+	padding-left: 0px;
+	text-decoration: underline !important;
+	color:#0000FF !important;
+	border-bottom: none;
+	font-weight: normal !important;
+	outline: green dotted 0px;
+background: none;
+}
+
+
+
+ul.topnav ul ul li a:hover {
+	color: #005f0e !important;
+	text-decoration: none !important;
+	background-image: none !important;
+	background: none !important; 
+	outline: green dotted 0px;
+	font-weight: bold !important;
+}
+ul.topnav ul ul li a:focus {
+color: green !important;
+background: none;
+}
+ul.topnav ul li a span {
+margin-left: 20px;
+}
+ul.topnav span{
+	float:right;
+}
+
+.alternate {
+background-color: #EBEBEB !important;
+}
+.alternate2 {
+background-color: #DFDFDF !important;
+}
+.alternate3 {
+background-color: #4E4E4E;
+}
+.alternate4 {
+background-color: #4E4E4E;
+}
+p {
+font-family: Arial, Helvetica, sans-serif;
+}
+.tabs {
+  font-size: 0;
+  margin: 25px 0;
+}
+
+.tabs:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.tabs .tab {
+  display: inline;
+}
+
+.tabs .tab-label {
+  background: #ccc; 
+  border: 1px solid #999; 
+  display: inline-block;
+  font-size: 16px;
+  font-size: 1rem;
+  left: 1px;
+  margin-left: -1px;
+  padding: 10px; 
+  position: relative;
+  vertical-align: bottom;
+color: #444;
+border-radius: 8px 8px 0px 0px;
+}
+.tabs .tab-label:hover {
+color: rgb(24, 255, 0);
+background-color:rgb(0, 6, 134);
+}
+.tabs .tab > [type="radio"] {
+  clip: rect(0 0 0 0);
+  height: 1px;
+  opacity: 0;
+  position: fixed;
+  width: 1px;
+  z-index: -1;
+}
+
+.tabs .tab-panel {
+  display: inline;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  height: 0;
+  width: 0;
+}
+
+.tabs .tab-content {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+  background: white;
+  padding: 0 20px;
+  border: 1px solid #999;
+  float: left;
+  font-size: 16px;
+  font-size: 1rem;
+  margin-top: -1px;
+  width: 100%;
+min-height: 550px;
+max-height: 550px;
+overflow-y: auto;
+}
+
+
+
+.tabs .tab [type="radio"]:checked + .tab-label {
+  background: white;
+  border-bottom-width: 0;
+  padding-bottom: 11px;
+  z-index: 1;
+color: green;
+font-weight: bold;
+}
+
+.tabs .tab [type="radio"]:checked ~ .tab-panel {
+  display: inline;
+}
+.alternate, .alternate2 {
+padding-left: 30px !important;
+}
+
+  /* IE8 and below */
+  .tabs .tab .tab-radio {
+    filter: Alpha(opacity=0);
+    position: absolute;
+    z-index: -1;
+  }
+  
+
+
+  
+  /* IE8 and below */
+  .tabs .checked label {
+    background: white;
+    border-bottom-width: 0;
+    padding-bottom: 11px;
+    z-index: 1;
+color: green;
+font-weight: bold;
+  }
+    .tabs .checked label:hover {
+    background: white;
+color: green;
+  }
+  /* IE8 */
+  .tabs .checked .tab-panel {
+    display: inline;
+  }
+
+
+
+
+
+
+
+
+
+.tab-content a:link,.tab-content a:visited,.tab-content a:hover,.tab-content a:focus,.tab-content a:active {
+  color: #58C;
+}
+
+label {
+  cursor: pointer;
+}
+
+.tabs {
+  color: #222;
+}
+
+.tabs a:link,.tabs a:visited,.tabs a:hover,.tabs a:focus,.tabs a:active {
+  color: #0000FF;
+font-weight: bolder;
+}
+
+body > h3 {
+  font-variant: small-caps;
+  letter-spacing: .0625em;
+}
+
+p {
+  line-height: 1.5;
+  max-width: 50em;
+}
+
+code,pre {
+  font-family: 'Lucida Console', monospace;
+}
+ul.topnav li a::before {
+    content: url(https://epaportal.sp.ohio.gov/_layouts/images/folder.gif);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    vertical-align: middle;
+visibility: hidden;
+    display: inline-block;
+}
+ul.topnav li a:before {
+    content: url(https://epaportal.sp.ohio.gov/_layouts/images/folder.gif);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    vertical-align: middle;
+visibility: hidden;
+    display: inline-block;
+}
+
+pre {
+  background: #191919;
+  color: #8DA;
+  overflow-x: auto;
+  padding: 1em;
+}
+
+p > code {
+  background: #DED;
+  margin: -2px;
+  padding: 2px;
+}
+
+.for {
+  display: inline-block;
+  position: relative;  
+}
+
+.for:after {
+  background: #DDD;
+  bottom: 150%;
+  color: #222;
+  font-family: sans-serif;
+  font-size: 12px;
+  opacity: 0;
+  padding: .5em;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  -webkit-transition: opacity .2s ease-in-out;
+  transition: opacity .2s ease-in-out;
+  white-space: nowrap;
+}
+
+.for:hover:after {
+  opacity: 1;
+}
+
+.for.default-tab {
+  color: #8AD;
+}
+
+.for.ie8-and-below {
+  color: #DA8;
+}
+
+.for.default-tab:after {
+  content: 'For default tab';  
+}
+
+.for.ie8-and-below:after {
+  content: 'For IE8 and below';  
+}
+
+/* and just for fun... */
+@media only screen and (max-width: 43em) {
+  .tabs .tab > label {
+    background: #BBB;
+    border-color: #999;
+    
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .tabs .tab [type="radio"]:checked + .tab-label {
+    background: #222;
+    border-color: #444;
+    color: #DDD;
+  }
